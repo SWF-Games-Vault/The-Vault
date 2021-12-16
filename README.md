@@ -1,2 +1,2 @@
-# the-vault
-The archive for Flash programs.
+# The Vault
+The place where we archive the Flash programs.
